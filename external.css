@@ -1,0 +1,13 @@
+h1
+{
+    background-color:black;
+    text-align: center;
+    color: #ffffff;
+}
+
+h2{
+    padding-top: 15px;
+    color: tomato;
+    border: 1px solid purple;
+    margin-top: 15px;
+}
